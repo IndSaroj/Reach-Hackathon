@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "email": "Saroj@gmail.com",
+      "name": "Saroj",
+      "address": "delhi",
+      "accountno": "12345678900",
+      "mobile": "6789012345",
+      "password": "Saro@123",
+      "id": 1
+    },
+    {
+      "email": "Saroj123@gmail.com",
+      "name": "Saroj",
+      "address": "Chandigarh",
+      "accountno": 12345679800,
+      "mobile": 9012345678,
+      "password": "Saroj@1234",
+      "id": 2
+    }
+  ]
+}
